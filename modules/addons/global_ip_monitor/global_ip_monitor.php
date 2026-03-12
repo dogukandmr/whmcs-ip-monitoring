@@ -17,7 +17,7 @@ function global_ip_monitor_config()
 {
     return [
         'name' => 'Global IP Monitor',
-        'description' => 'Müşteri ve admin girişlerinde IP adresi, port, hostname ve tarayıcı bilgilerini otomatik olarak loglar. WHMCS yalnızca son IP\'yi gösterir; bu modül tüm giriş geçmişini kaydeder ve yöneticiye raporlar.',
+        'description' => 'Müşteri ve admin girişlerinde IP adresi, port, hostname ve tarayıcı bilgilerini otomatik olarak loglar. WHMCS yalnızca son IP'yi gösterir; bu modül tüm giriş geçmişini kaydeder ve yöneticiye raporlar.',
         'version' => '1.0.0',
         'author' => 'HazalHost',
         'language' => 'turkish',
